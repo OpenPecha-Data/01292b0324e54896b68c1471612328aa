@@ -1,10 +1,10 @@
-id: 3cfcdf55073e40a9abd2110df6cf8353
+id: efa354c2ad884bfba143b21126acc86a
 annotation_type: Citation
-revision: '00010'
+revision: '00005'
 annotations:
-  6de9d19e57fd44fea6a0bef02a10c11b:
+  f9832f0ace424839ac1c46a2e2647962:
     span:
       start: 80
-      end: 790
+      end: 228
     metadata:
       css_class_name: tibetan-citations-in-verse
